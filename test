@@ -1,0 +1,17 @@
+Feature	Harness.io	GoCD	XL Deploy	Cycloid.io	GitHub Actions	AWX
+Multi-tenancy	Yes	Yes	Yes	Yes	No	Yes
+Cloud-Native App Support	Yes	Yes	Yes	Yes	Yes	Yes
+Traditional App Support	Yes	Yes	Yes	Yes	Yes	Yes
+Configuration as Code	Yes	Yes	Yes	Yes	Yes	Yes
+Infrastructure Provisioners	Yes	Yes	Yes	Yes	Yes	Yes
+High Availability Nodes	Yes	Yes	Yes	Yes	No	Yes
+Single Sign-On	Yes	Yes	Yes	Yes	Yes	Yes
+Role-Based Access Control	Yes	Yes	Yes	Yes	Yes	Yes
+GitOps (Pipelines as Code)	Yes	Yes	Yes	Yes	Yes	Yes
+Canary Deployments	Yes	Yes	Yes	Yes	No	Yes
+Blue-Green Deployments	Yes	Yes	Yes	Yes	No	Yes
+Deployment Target Solutions	Yes	Yes	Yes	Yes	No	Yes
+Change Management Jira	Yes	Yes	Yes	Yes	Yes	Yes
+Secrets Management Integration	Yes	Yes	Yes	Yes	Yes	Yes
+Audit Trails, Metrics & Reporting	Yes	Yes	Yes	Yes	Yes	Yes
+Support, Training & Documentation	Yes	Yes	Yes	Yes	Yes	Yes
